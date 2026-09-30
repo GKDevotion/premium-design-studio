@@ -45,7 +45,7 @@ export const BrochureModal: React.FC<BrochureModalProps> = ({ isOpen, onClose })
             `4. Complete Single-Point Turnkey Execution (Design, Civil, Carpentry, Marble, MEP, Handover)\n\n` +
             `BILL OF QUANTITIES GUARANTEE:\n` +
             `Fixed price guarantee with 120-point quality audit and 12-month post-handover warranty.\n\n` +
-            `Thank you for considering Premium Design Studio. Contact atelier@premiumdesignstudio.com to schedule your site discovery.`,
+            `Thank you for considering Premium Design Studio. Contact contact@shreegurvetech.com to schedule your site discovery.`,
         ],
         { type: 'text/plain;charset=utf-8' }
       );

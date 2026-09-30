@@ -15,9 +15,9 @@ export const STUDIO_INFO = {
   completedProjects: '250+',
   designAwards: '15+',
   citiesServed: '8',
-  phone: '+91 98250 12400',
-  whatsapp: '+919825012400',
-  email: 'atelier@premiumdesignstudio.com',
+  phone: '+91 82000 17181',
+  whatsapp: '+918200017181',
+  email: 'contact@shreegurvetech.com',
   address: 'Atelier 402, Signature One, VIP Road, Vesu, Surat, Gujarat 395007',
   hours: 'Monday – Saturday: 9:30 AM – 7:00 PM (Sunday by Appointment)',
 };
