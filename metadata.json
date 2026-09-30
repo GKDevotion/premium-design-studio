@@ -1,0 +1,6 @@
+{
+  "name": "Premium Design Studio",
+  "description": "Bespoke interior design solutions crafted around your lifestyle, brand, and vision. Residential, commercial, hospitality, and turnkey execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

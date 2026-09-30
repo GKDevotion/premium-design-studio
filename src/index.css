@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-display: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --color-studio-dark: #121211;
+  --color-studio-stone: #EFECE6;
+  --color-studio-sand: #F7F5F0;
+  --color-studio-gold: #C5A059;
+}
+
+body {
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: #FAF9F6;
+  color: #171716;
+  overflow-x: hidden;
+  letter-spacing: -0.01em;
+}
+
+/* Sophisticated architectural heading typography */
+h1, h2, h3, h4, .font-serif, .font-display {
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, sans-serif;
+  letter-spacing: -0.025em;
+}
+
+/* Custom smooth scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f0eb;
+}
+::-webkit-scrollbar-thumb {
+  background: #c8c5bc;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9f9b90;
+}
